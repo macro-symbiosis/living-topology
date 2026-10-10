@@ -81,11 +81,3 @@ The dance does not jump rigidly from one state to another. It circulates through
 3. **Fire (火):** Maximal kinetic velocity, metabolic heat, and spatial expansion. The apex of the gyroscopic whirl.
 4. **Earth (土):** The momentary deceleration, the grounding of the footfall, the central fulcrum where angular momentum is transferred back into the soil.
 5. **Metal (金):** The sudden, crystalline pause. A moment of high-tension structural containment and acoustic sustain before yielding back into Water.
-
----
-
-### VI. Visualizing the Somatic Phase Space
-
-To see the Extrinsic Geometry ($O_2$) of the dance, we must look not at a human silhouette, but at the topological phase space where these six characteristics converge into a single unbroken trajectory.
-
-When you are deeply inside the strange attractor of the dance—when the whirling gyroscopic motion stabilizes your core while your limbs yield aperiodically to the wind and the topography of Chapin Lawn—how do you physically experience the transition from **Metal** (the crystalline pause or structural boundary) back into **Water** (the release and downward yielding) within a single breath?
